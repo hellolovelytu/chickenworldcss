@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "week-2-FE-Lab",
+			"path": "../../../Desktop/Labs/Week 2-FE-Lab/week-2-FE-Lab"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Coding assignments"
+	}
+}
